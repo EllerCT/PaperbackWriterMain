@@ -6,12 +6,14 @@ The Book Arts Collaborative Business Operation Software is a effort to transfer 
 
 ## High-level Features
 
-- A bullet pointed list of high-level features (Use cases if you may).
-- Another one.
+- Employee time tracking
+- Supply tracking
+- Product Database
+- Retailer Access Client
 
 ## Non-Functional Requirements
 
-- A bullet pointed list of non-functional requirements
+- Work on MAC desktop and IPad
 - Another one...
 
 ## Constraints
