@@ -1,5 +1,4 @@
-# The title or name of the project
-Book Arts Collaborative Business Operation Software
+# Book Arts Collaborative Business Operation Software
 
 ## **Summary**
 
