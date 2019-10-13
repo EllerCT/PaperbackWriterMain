@@ -20,10 +20,12 @@ Book Arts Collaborative
 
 ## **Links**
 
+- [Book Arts Collaborative Home Page](http://www.bookartscollaborative.com/who-we-are)
 - [Project description](ProjectDescription.md)
 - [Clubhouse of the project](https://app.clubhouse.io/bookartscollaborativebusinessoperationsoftware/projects)
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
+
 
 ## **Code Repositories**
 
