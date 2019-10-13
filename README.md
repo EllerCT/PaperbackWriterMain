@@ -1,35 +1,32 @@
-# CapstoneProjectTemplate /* Title of your project */
+# The title or name of the project
+Book Arts Collaborative Business Operation Software
 
 ## **Summary**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Book Arts Collaborative Business Operation Software is a effort to transfer the hand written and repetitive tasks of the business into a an effective and easy to use software.The software is intended for an ever-changing staff and inventory as well as being the focalpoint of the business operations. Tasks include tracking inventory of products, monitoring sales and supplies, cost accounting for individual products, additionaly, time and point tracking of employees. 
 
 ## **Team Members**
 
-- Joe Black
-- Joe Pesci
-- Joe Dalton
+- Michael Gallegos
+- Edith Tena-Lagunas
+- Christopher Eller
 
 ## **Client Partner Information**
 
 ### *Company:*
-WHATEVER COMPANY or CORRESPONDENCE
+Book Arts Collaborative
 
 ### *People:*
-- Jane Fonda
-- Jane Lynch
+- Dr. Rai Peterson
 
 ## **Links**
 
 - [Project description](ProjectDescription.md)
-- [Clubhouse of the project](https://app.clubhouse.io)
+- [Clubhouse of the project](https://app.clubhouse.io/bookartscollaborativebusinessoperationsoftware/projects)
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
-- ... any other documents/links you see need
 
 ## **Code Repositories**
 
-- [Mobile App - Android](https://www.android.com/)
-- [Php Backend](https://www.php.net/)
-- Others if more.
+- N/A
 
