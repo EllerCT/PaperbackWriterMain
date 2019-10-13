@@ -2,7 +2,7 @@
 
 ## Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Book Arts Collaborative Business Operation Software is a effort to transfer the hand written and repetitive tasks of the business into a an effective and easy to use software. The software is intended for an ever-changing staff and inventory as well as being the focalpoint of the business operations. Software will include a robust inventory management system that will account for individual products and supplies, and keep track of cost accounting for the process of creating a new product. Employess will utilize the software to keep track of hours in the workplace as well as tracking points for the class per registered event attended. Each aspect of the software will be brought together by a simple and easy to use GUI for high volume usage by the ever-changing staff. m      
 
 ## High-level Features
 
