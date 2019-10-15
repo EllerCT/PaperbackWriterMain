@@ -14,9 +14,7 @@ The Book Arts Collaborative Business Operation Software is a effort to transfer 
 ## Non-Functional Requirements
 
 - Work on MAC desktop and IPad
-- Another one...
+- Usable by non-technical employees
 
 ## Constraints
 
-- A bullet pointed list of constraints
-- Another one...
