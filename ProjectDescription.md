@@ -17,5 +17,4 @@ The Book Arts Collaborative Business Operation Software is a effort to transfer 
 - Usable by non-technical employees
 - Contain a README file for explanations of the project
 
-## Constraints
 
