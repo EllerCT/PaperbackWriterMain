@@ -29,7 +29,7 @@ Book Arts Collaborative
 
 ## **Code Repositories**
 
-- [JDK 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+- [JDK 11](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)
 - [Maven](https://mvnrepository.com/artifact/com.oracle.java/jre/1.8.0_101)
 - [Source Code](https://github.com/cteller-bsu/PaperBackWriter)
 
