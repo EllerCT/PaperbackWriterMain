@@ -2,7 +2,8 @@
 
 ## **Summary**
 
-The Book Arts Collaborative Business Operation Software is a effort to transfer the hand written and repetitive tasks of the business into a an effective and easy to use software.The software is intended for an ever-changing staff and inventory as well as being the focalpoint of the business operations. Tasks include tracking inventory of products, monitoring sales and supplies, cost accounting for individual products, additionaly, time and point tracking of employees. 
+The Book Arts Collaborative Business Operation Software is an effort to transfer the handwritten and repetitive tasks of the business into a an effective and easy to use software. The software is intended for an ever-changing staff and inventory as well as being the focal point of the business operations. Tasks include tracking inventory of products, monitoring sales and supplies, cost accounting for individual products, additionally, time and point tracking of employees.
+
 
 ## **Team Members**
 
