@@ -11,12 +11,12 @@ This user manual will describe features of the PaperBack Writer and how to do th
 - Add New Employees
 - Manage Events
 
-### *Clock In/Out*
+## *Clock In/Out*
 
-### *Confirm Event Attendence*
+## *Confirm Event Attendence*
 
-### *View Employees*
+## *View Employees*
 
-### *Add New Employees*
+## *Add New Employees*
 
-### *Manage Events*
+## *Manage Events*
