@@ -55,7 +55,7 @@ This user manual will describe features of the PaperBack Writer and how to do th
 1A. Within the main menu, press the button "Add New Employee." 
 
 1B. A prompt for a manager password will pop-up to proceed.
-[Add Employee](AddEmployee.png)
+![Add Employee](AddEmployee.png)
 
 2. The manager can enter the required information into each field.
 
