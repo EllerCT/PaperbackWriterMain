@@ -24,7 +24,7 @@ This user manual will describe features of the PaperBack Writer and how to do th
 
 4A. A prompt will pop-up notifying the user of a successful clock in or out.
 
-4B. If the user enters a PIN not found or invaild the following pop-up will occur. The user should 
+4B. If the user enters a PIN not found or invaild the following pop-up will occur. The user should refer back to step 3 when this occurs.
 
 ![Invaild Pin](PinNotFound.png)  
 
@@ -33,7 +33,10 @@ This user manual will describe features of the PaperBack Writer and how to do th
 ![Confirm Event](EventAttendence.png)  
 
 ## *View Employees*
+![View Employees](ViewEmployee.png)
 
 ## *Add New Employees*
+![Add Employee](AddEmployee.png)
 
 ## *Manage Events*
+![Manage Events](ManageEvents.png)
