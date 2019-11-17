@@ -64,7 +64,7 @@ src -> main -> java -> UserInterfaceController.java -> line 93 - 114
 ### ***Add Employee Preference***
 src -> main -> java -> UserInterfaceController.java -> line 78 - 91
 ```Java
-    This is being left in to demonstrate to the client.
-    If they prefer this method of entry, we'll add one for events.
-    If they prefer the table method, we'll remove this.
+    //This is being left in to demonstrate to the client.
+    //If they prefer this method of entry, we'll add one for events.
+    //If they prefer the table method, we'll remove this.
 ```   
