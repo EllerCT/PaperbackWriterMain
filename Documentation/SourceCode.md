@@ -28,7 +28,7 @@ src -> main -> java -> managers -> EmployeeManager.java -> line 54 - 64
 
 ### ***Change Employee PIN***
 src -> main -> java -> managers -> EmployeeManager.java -> line 66 - 86
-```
+```Java
    /**
      * Get a new instance of data_structures.Employee identical to the data_structures.Employee stored under the given
      * data_structures.PinNumber
@@ -39,7 +39,7 @@ src -> main -> java -> managers -> EmployeeManager.java -> line 66 - 86
 
 ### ***Clock In/Out***
 src -> main -> java -> UserInterfaceController.java -> line 48 - 76
-```
+``` Java
     /**
      *  Checks to see if PIN from TimeClockFrame is equal to PIN from employeeManager.
      *  Checks to see if matchingEmployee is clocked in, if clockedIn then clock out.
@@ -50,7 +50,7 @@ src -> main -> java -> UserInterfaceController.java -> line 48 - 76
 
 ### ***On Add New Employee***
 src -> main -> java -> UserInterfaceController.java -> line 93 - 114
-```
+```Java
    /**
      *  Makes new instance of the data structure Employee.
      *  Using AddEmployeeFrame, takes in the text field and set the input to employee fields.
@@ -63,7 +63,7 @@ src -> main -> java -> UserInterfaceController.java -> line 93 - 114
 ## **Additional Comments**
 ### ***Add Employee Preference***
 src -> main -> java -> UserInterfaceController.java -> line 78 - 91
-```
+```Java
     This is being left in to demonstrate to the client.
     If they prefer this method of entry, we'll add one for events.
     If they prefer the table method, we'll remove this.
