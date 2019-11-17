@@ -28,7 +28,7 @@ Book Arts Collaborative
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
 
 ## **Iteration Releases**
-
+- [Iteration 1](https://github.com/cteller-bsu/PaperBackWriter/releases/tag/v0.1.0-a)
 
 ## **Code Repositories**
 
