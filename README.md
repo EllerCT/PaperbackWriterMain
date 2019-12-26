@@ -6,9 +6,10 @@ The Book Arts Collaborative Business Operation Software is an effort to transfer
 
 
 ## **Team Members**
-
+### *Retired*
 - Michael Gallegos
 - Edith Tena-Lagunas
+### *Active*
 - Christopher Eller
 
 ## **Client Partner Information**
