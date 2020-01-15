@@ -27,7 +27,6 @@ Some tasks common for a student / employee to undertake..
 
 ### Clock In or Out
 1. With the main menu open, click on **Employee Menu**
-
 1. Click on **Clock In / Out**
 1. Enter your 4-digit pin number, such as 0001
 1. Press the button. A popup will confirm that you have clocked in, or out.
