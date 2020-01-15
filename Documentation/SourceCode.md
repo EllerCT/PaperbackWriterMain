@@ -1,3 +1,4 @@
+# **Deprecated** - This file is not kept up to date.
 # In-Line Code Documentation
 
 ## **Description**
