@@ -11,7 +11,7 @@ Paper Back Writer utilizes Java for its mobility and ease of deployment, and sho
   * Remember Java may not always be enabled on your machine, enable it if necessary.
 1. Go to the [Latest Release](https://github.com/cteller-bsu/PaperBackWriter/releases)
 1. Find that releases version of PaperBackWriter.jar
-  * [Example](ImageResources/downloadJar.PNG)
+      * ![Example](ImageResources/downloadJar.PNG)
 1. Download the .jar to a directory
 1. If necessary, ensure that PaperBackWriter has permission to execute. It will also generate files on its first run!
 
