@@ -16,9 +16,9 @@ These are the technologies our group have used to create our program. For our pr
 
 ## **Instructions**
 1. Ensure you have a version of Java version 11 or later installed on the local machine.
-  1. If Java is not installed, get the latest [Here]()
-1. Ensure [Git]() is installed normally.
-1. Ensure [IntelliJ]() is installed and configured to taste on your machine.
+  1. If Java is not installed, get the latest [Here](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+1. Ensure [Git](https://git-scm.com/downloads) is installed normally.
+1. Ensure [IntelliJ](https://www.jetbrains.com/idea/download/) is installed and configured to taste on your machine.
 1. Open IntelliJ IDE
 1. Select **Check out from Version Control**
 1. Paste the URL of the code repository in the text box
