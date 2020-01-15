@@ -36,9 +36,9 @@ Some tasks common for a student / employee to undertake..
 1. With the main menu open, click on **Products Menu**
 1. Click on **Cost Analysis**
 1. From the various resource dropdown boxes, select which resources your project will use
-  * **Other** is a manual field, just in case you're using something unexpected!
-  * The number column beside it is for archival purposes, it won't affect the cost.
-  * The cost should be the manually calculated total price here. This can be a negative value, in case of discounts.
+	* **Other** is a manual field, just in case you're using something unexpected!
+ 	* The number column beside it is for archival purposes, it won't affect the cost.
+ 	* The cost should be the manually calculated total price here. This can be a negative value, in case of discounts.
 1. Specify how much of that resource you're using (numbers only please!)
 1. Hit 'Calculate'
 1. If you wish to archive this product, fill in the other information and continue
@@ -48,7 +48,7 @@ Some tasks common for a student / employee to undertake..
 1. With the main menu open, click on **Employee Menu**
 1. Click on **Confirm Event Attendance**
 1. From the dropdown on the left, pick the event you attended.
-  * This will be a short name for the event!
+	* This will be a short name for the event!
 1. Type in your pin into the labeled box
 1. Press **Confirm**
 1. If you are asked for a confirmation code, a popup box will ask for it. These are given out at the event itself!
