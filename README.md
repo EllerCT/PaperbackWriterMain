@@ -30,10 +30,9 @@ Book Arts Collaborative
 
 ## **Iteration Releases**
 - [Iteration 1](https://github.com/cteller-bsu/PaperBackWriter/releases/tag/v0.1.0-a)
+- [Iteration 2](https://github.com/cteller-bsu/PaperBackWriter/releases/tag/v0.2.0-a)
 
 ## **Code Repositories**
 
-- [JDK 11](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)
-- [Maven](https://mvnrepository.com/artifact/com.oracle.java/jre/1.8.0_101)
-- [Source Code](https://github.com/cteller-bsu/PaperBackWriter)
+- [Paper Back Writer](https://github.com/cteller-bsu/PaperBackWriter)
 
