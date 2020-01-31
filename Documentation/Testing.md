@@ -1,9 +1,16 @@
 # Testing
 
 ## Automated Testing
-Given that the software is largely a means of either entering, editing, or moving data, automated testing was deemed a low priority, and has not been implemented. Those calculations which it performs tend to either be trivial, or subject to change due to client needs at this point in development, and therefor testing assumed values may need to be rewritten with the code it's testing, thereby defeating the purpose.
+Since there is no point running tests over code that has not changed, the current testing suite does not run on project build.
+1. Expand the **test** folder located within **src**
+1. Expand the **java** folder within **test**
+1. Navigate to the package, then package or class you wish to test.
+	1. To run all tests, right click on the **java** folder and select **'Run All Tests'**
+1. Right click on either the package or class files you wish to test, and select **Run 'class name'** from the menu.
 
-## Integration Testing
+Tests may be run individually via the class files themselves. Currently only non-trivial and pure logic clases possess automated testing.
+
+## Manual Testing
 1. Open the software, either via artifact or build.
 	1. Rejoice
 1. Navigate to ensure every window opens and is formatted as expected.
