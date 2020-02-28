@@ -36,6 +36,9 @@ These are the technologies our group have used to create our program. For our pr
 - Swing Frames
   - The Swing Frames folder within our code repository is used to store our UI defining classes.
 
+- UI Elements
+  - Contains custom UI elements inserted within Swing Frames
+
 - Data Structures
   - The Data Structures folder within our code repository is used to store classes that allow the transport codification of data.
 
