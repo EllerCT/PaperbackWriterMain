@@ -33,6 +33,7 @@ Book Arts Collaborative
 - [Iteration 2](https://github.com/cteller-bsu/PaperBackWriter/releases/tag/v0.2.0-a)
 - [Iteration 3](https://github.com/cteller-bsu/PaperBackWriter/releases/tag/v0.3.0-a)
 - [Iteration 4](https://github.com/cteller-bsu/PaperBackWriter/releases/tag/v0.4.0-a)
+- [Iteration 5](https://github.com/cteller-bsu/PaperBackWriter/releases/tag/v0.5.0)
 
 ## **Code Repositories**
 
