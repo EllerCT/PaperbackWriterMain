@@ -10,3 +10,4 @@ Any presentation you made will be put here right after the presentation. The fol
 - Fourth Iteration Presentation
 - Fifth Iteration Presentation
 - Final Presentation
+- Student Symposium Poster
