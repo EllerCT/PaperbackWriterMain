@@ -17,13 +17,17 @@ Paper Back Writer utilizes Java for its mobility and ease of deployment, and sho
 
 ## To start Paper Back Writer
 1. Once installed, simply double click the .jar to execute. If this does not work, proceed to step 2.
+1. Right click on the .jar (command click on Mac)
+1. Select Open
+1. If prompted, confirm you wish to open it.
+1. If this fails, proceed to next step.
 1. Open the terminal for your OS
 1. Navigate the terminal to the folder with PaperBackWriter.jar
 1. From the command line, run **java -jar PaperBackWriter.jar**
   * Remember, PaperBackWriter may be named something like **PaperBackWriter_v0.2.0.jar**, most operating systems allow tab completion of the name!
 
 ## To close Paper Back Writer
-1. Simply exit the 'Paper Back Writer' main menu.
+1. Simply exit the 'Paper Back Writer' environment window.
 
 ## Troubleshooting
 * Ensure Java of at least JDK 11 is installed
@@ -32,7 +36,7 @@ Paper Back Writer utilizes Java for its mobility and ease of deployment, and sho
 
 ### My ___ didn't save!
 * PaperBackWriter saves many things automatically for ease of use in the background. If the program lacks read-write permissions, it will be unable to save.
-* Ensure that you have not entered duplicate information! If an ID, or Pin, or Code exists within the system already, it will NOT automatically replace duplicates. It will instead silently discard duplicate information.
+* Ensure that you have not entered duplicate information! If you have duplicated information, it may overwrite extant information.
 
 ### It won't start
 Unfortunately, there are difficulties with reproducibility on certain macOS systems. If you can get other JAR files to run on your system, please get into contact with us with errors displayed, or a system log of the reason it failed to load. We are unable to resolve system-specific difficulties without ready access to such a system.

@@ -12,17 +12,13 @@ Tests may be run individually via the class files themselves. Currently only non
 
 ## Manual Testing
 1. Open the software, either via artifact or build.
-	1. Rejoice
 1. Navigate to ensure every window opens and is formatted as expected.
-	1. Rejoice.
 1. Create an Employee via Table
-1. Create Employee via button
 1. Create test event with no point worth
 1. Create test event with point worth
 1. Create test event with point worth and confirmation code
 1. Clock an employee in
 1. Have the employee attend each event, ensure that point additions save by re-opening the employee viewer.
-	1. Rejoice optional
 1. Have that first employee clock out
 1. Remove an Employee
 1. Have an employee attend an event, but fail to enter the right code. Ensure points do not get added.
@@ -32,7 +28,6 @@ Tests may be run individually via the class files themselves. Currently only non
 1. View it.
 1. Grade it.
 1. Reload to ensure it saved.
-	1. Rejoice optional.
 1. Close program
 1. Re-open program.
 1. Ensure everything we did persists.

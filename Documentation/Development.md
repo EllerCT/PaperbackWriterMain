@@ -39,6 +39,12 @@ These are the technologies our group have used to create our program. For our pr
 - UI Elements
   - Contains custom UI elements inserted within Swing Frames
 
+- Listeners
+	- Listeners which are attached to the UI.
+	
+- Controllers
+	- These are the model-view controllers for the system, responsible for attaching listeners and the location where UI behavior is established.
+
 - Data Structures
   - The Data Structures folder within our code repository is used to store classes that allow the transport codification of data.
 
